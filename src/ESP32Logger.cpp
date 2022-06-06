@@ -8,6 +8,7 @@
 
 #include "ESP32Logger.h"
 #include <stdarg.h>
+#include <time.h>
 
 ESP32Logger Log;
 
